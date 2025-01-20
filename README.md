@@ -9,4 +9,4 @@
 ## [TABLEAU](https://public.tableau.com/app/profile/ly.nguyen7333/vizzes)
 |            Title                  |  Description     |
 |--------------------------------------|------|
-| [Salary Exploration Dashboard](https://public.tableau.com/app/profile/ly.nguyen7333/viz/SimpleSalaryReport/CareerDashboard) | - Created an interactive dashboard for a comprehensive analysis of demographics and patterns in various careers<br>- Obtained dataset from Kaggle, ~6k records of publicly available information on careers and salary (e.g job postings, surveys)|
+| [Career Analysis Dashboard](https://public.tableau.com/app/profile/ly.nguyen7333/viz/CareerAnalysis_17373683727380/DegreeDashboard) | - Created an interactive dashboard for a comprehensive analysis of demographics and patterns in various careers<br>- Obtained dataset from Kaggle, ~6k records of publicly available information on careers and salary (e.g job postings, surveys)|
