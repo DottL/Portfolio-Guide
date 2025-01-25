@@ -1,15 +1,16 @@
 # Projects
 
+## SQL
+|            Title                  |  Area |Description     |
+|--------------------------------------|------|----|
+| [8-Week SQL Challenges](https://8weeksqlchallenge.com/) (In Progress)|  | IN PROGRESS |
+
+
 ## PYTHON
 |         Title                   |  Area     |  Description        | Libraries|
 |--------------------------------------|------|----------|-----|
 | [iFood Campaign Analysis](https://github.com/DottL/iFoodCampaign) | EDA | - Reported on campaign performances and summarized actionable insights for stakeholders for an online food delivery company <br> - Used a small (~2k rows) of marketing data on campaigns and customer demographics| pandas, matplotlib, seaborn, scikit-learn, numpy|
 | [Obesity Trends in Adolescents](https://github.com/DottL/ObesityAdolescents/) | EDA & Predictive Model | - Developed a predictive model and presented key patterns in data the model's performance<br>- Used CDC data from data.gov on adolescents (2-19) in the United States|pandas, matplotlib, seaborn, scikit-learn, numpy|
-
-## SQL
-|            Title                  |  Area |Description     |
-|--------------------------------------|------|----|
-| [8-Week SQL Challenges](https://8weeksqlchallenge.com/) (In Progress)|  | IN PROGRESS |
 
 
 ## [TABLEAU](https://public.tableau.com/app/profile/ly.nguyen7333/vizzes)
